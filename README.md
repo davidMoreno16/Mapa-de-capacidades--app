@@ -1,20 +1,20 @@
 # Mapa de Capacidades – Mega Mayorista
 
-## 👤 Información del Estudiante
+##  Información del Estudiante
 **Nombre:** David Moreno  
 **Materia:** Desarrollo de Aplicación Nativa en el Cloud  
 **Unidad:** 2 – Front-End con React + Next.js  
 
 ---
 
-## 🏢 Información de la Empresa
+##  Información de la Empresa
 **Empresa:** Mega Mayorista  
 **Descripción:** Mayorista dedicada a la distribución de productos en volumen.  
 **Objetivo:** Automatizar la visualización del mapa de capacidades del negocio.  
 
 ---
 
-## 🧩 Mapa de Capacidades
+##  Mapa de Capacidades
 - Ventas  
 - Inventarios  
 - Logística  
@@ -23,7 +23,7 @@
 
 ---
 
-## 🖥️ Aplicación Objetivo
+##  Aplicación Objetivo
 Aplicación web diseñada con **React + Next.js** que permite visualizar de forma clara las capacidades centrales de Mega Mayorista.
 
 ### Funcionalidades:
@@ -33,7 +33,7 @@ Aplicación web diseñada con **React + Next.js** que permite visualizar de form
 
 ---
 
-## 🚀 Instalación y Uso
+##  Instalación y Uso
 
 ### 1. Clonar el repositorio
 ```bash
