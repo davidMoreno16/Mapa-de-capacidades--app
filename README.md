@@ -38,3 +38,5 @@ Aplicación web diseñada con **React + Next.js** que permite visualizar de form
 ### 1. Clonar el repositorio
 ```bash
 git clone https://github.com/davidMoreno16/Mapa-de-capacidades--app.git
+📎 Evidencia de cálculos de costos:
+[Ver PDF](./docs/costo-cloud.pdf)
