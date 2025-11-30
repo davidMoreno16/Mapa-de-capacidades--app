@@ -9,7 +9,7 @@
 
 ##  Información de la Empresa
 **Empresa:** Mega Mayorista  
-**Descripción:** Mayorista dedicada a la distribución de productos en volumen.  
+**Descripción:** Empresa del sector terciario dedicado a la venta de articulos electronicos.  
 **Objetivo:** Automatizar la visualización del mapa de capacidades del negocio.  
 
 ---
