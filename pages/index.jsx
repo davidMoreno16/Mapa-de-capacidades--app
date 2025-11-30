@@ -1,4 +1,4 @@
-import CapabilityGrid from "@/components/CapabilityGrid";
+import CapabilityGrid from "../components/CapabilityGrid";
 
 export default function Home() {
 
@@ -17,4 +17,3 @@ export default function Home() {
     </div>
   );
 }
-
